@@ -1,0 +1,17 @@
+body{
+    background: black !important;
+}
+.navbar-brand{
+    color: red;
+}
+.container-fluid{
+    justify-content: center !important;
+}
+.well{
+    text-align: center !important;
+    width: 100% !important;
+}
+
+/* #alarmButton{
+    margin-top: 20px !important;
+} */
